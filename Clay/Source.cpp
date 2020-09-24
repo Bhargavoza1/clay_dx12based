@@ -1,6 +1,6 @@
 #include<iostream>
 
-void mian()
+void main()
 {
 	std::cout << "hello world";
 }
